@@ -1,0 +1,46 @@
+.container{
+	display: block;
+	width: 40%;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+
+.block{
+	margin-left: 10px;
+	display: block;
+	width: 150px;
+}
+
+.flex{
+	display: flex;
+}
+
+img{
+	width: 60px;
+	height: 60px;
+	border-radius: 60px;
+}
+
+.green{
+	margin-top: 25px;
+	background-color: green;
+	width: 8px;
+	height: 8px;
+	border-radius: 8px;
+}
+.black{
+	margin-top: 25px;
+	background-color: black;
+	width: 8px;
+	height: 8px;
+	border-radius: 8px;
+}
+.name{
+	margin-top: 3px;
+	margin-bottom: 7px;
+}
+.follow{
+	padding: 0 2px;
+	border: 1px solid black
+
+}

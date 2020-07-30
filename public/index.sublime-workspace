@@ -1,0 +1,1050 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"response"
+			],
+			[
+				"Lo",
+				"Login\tsource_modules"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"login",
+				"Login"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"zi",
+				"zin\tz-index"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"C",
+				"Click"
+			],
+			[
+				"Hea",
+				"HeaderNEW"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"H",
+				"HeaderNEW"
+			],
+			[
+				"cl",
+				"classes"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"Hi",
+				"Hidemenu"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"mw",
+				"max-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"gh",
+				"height\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"Dis",
+				"Designed"
+			],
+			[
+				"W",
+				"WOODER"
+			],
+			[
+				"r",
+				"relative\tposition"
+			],
+			[
+				"l",
+				"left\ttext-align"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"B",
+				"border\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"P",
+				"Product_text"
+			],
+			[
+				"f",
+				"fl\tfloat"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"calss",
+				"className"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"Da",
+				"DataReducer"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"is",
+				"isLoader"
+			],
+			[
+				"Com",
+				"componentDidMount"
+			],
+			[
+				"N",
+				"NavLink\tnode_modules/react-router-dom"
+			],
+			[
+				"U",
+				"UserData"
+			],
+			[
+				"ke",
+				"keyCreato"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"to",
+				"totalCount"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"usre",
+				"users"
+			],
+			[
+				"cs",
+				"classes\tnode_modules/*.module.css"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"Sea",
+				"Search\tsource_modules"
+			],
+			[
+				"fo",
+				"followed"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"S",
+				"Search\tsource_modules"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"M",
+				"Message"
+			],
+			[
+				"sta",
+				"stateCopy"
+			],
+			[
+				"New",
+				"NewPostText"
+			],
+			[
+				"Mes",
+				"MessageReducer"
+			],
+			[
+				"me",
+				"Message"
+			],
+			[
+				"po",
+				"PostMessage"
+			],
+			[
+				"n",
+				"newPostText"
+			],
+			[
+				"fr",
+				"Friend"
+			],
+			[
+				"F",
+				"Friend"
+			],
+			[
+				"Post",
+				"PostsData"
+			],
+			[
+				"D",
+				"DialogData"
+			],
+			[
+				"ca",
+				"className"
+			],
+			[
+				"g",
+				"grid-area\tproperty"
+			],
+			[
+				"mh",
+				"max-height\tproperty"
+			],
+			[
+				"Ge",
+				"getElementById"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bc",
+				"background-color\tproperty"
+			],
+			[
+				"tt",
+				"tt\ttext-transform"
+			],
+			[
+				"A",
+				"auto\theight"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"bgc",
+				"bgc\tbackground-color"
+			],
+			[
+				"w",
+				"Welcome"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"Sl",
+				"Slash"
+			],
+			[
+				"y",
+				"yb"
+			],
+			[
+				"ta",
+				"tank"
+			],
+			[
+				"o",
+				"otvet"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"arr",
+				"arrF"
+			],
+			[
+				"L",
+				"Language"
+			],
+			[
+				"va",
+				"value1"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"value",
+				"value2"
+			],
+			[
+				"my",
+				"MY"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ma",
+				"mas2"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"V",
+				"VsegdaNaob"
+			],
+			[
+				"O",
+				"ONN"
+			],
+			[
+				"VS",
+				"Vsegda"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Su",
+				"SUMS"
+			],
+			[
+				"res",
+				"RES"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"ab",
+				"ab_my"
+			],
+			[
+				"da",
+				"display\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"text",
+				"text-align-last\tproperty"
+			],
+			[
+				"sna",
+				"snakeX"
+			],
+			[
+				"new",
+				"newHead"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/React_learn/react_kabzda_1/src/api/Api.js",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_learn/react_kabzda_1/src/redux/AuthReducer.js",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_learn/react_kabzda_1/src/components/Login/login.js",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_learn/Gitwooder/Wooder/wooder/src/Redux/DataReducer.js",
+			"settings":
+			{
+				"buffer_size": 1222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_learn/Gitwooder/Wooder/wooder/src/Redux/redux-store.js",
+			"settings":
+			{
+				"buffer_size": 250,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/React_learn",
+		"/D/React_learn/react_kabzda_1",
+		"/D/React_learn/react_kabzda_1/src",
+		"/D/React_learn/react_kabzda_1/src/api",
+		"/D/React_learn/react_kabzda_1/src/components",
+		"/D/React_learn/react_kabzda_1/src/components/Profile",
+		"/D/React_learn/react_kabzda_1/src/hoc",
+		"/D/React_learn/react_kabzda_1/src/redux"
+	],
+	"file_history":
+	[
+		"/D/React_learn/react_kabzda_1/src/components/Profile/ProfileContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Profile.module.css",
+		"/D/React_learn/react_kabzda_1/src/redux/MessageReducer.js",
+		"/D/React_learn/react_kabzda_1/src/hoc/withAuthRedirect.js",
+		"/D/React_learn/react_kabzda_1/src/App.js",
+		"/D/React_learn/react_kabzda_1/src/components/Nav/Nav.js",
+		"/D/React_learn/react_kabzda_1/src/components/Login/login.js",
+		"/D/React_learn/react_kabzda_1/src/redux/ProfileReducer.js",
+		"/C/Users/Даня/Desktop/portfolio(3)/.git/COMMIT_EDITMSG",
+		"/D/React_learn/react_kabzda_1/src/App.test.js",
+		"/D/React_learn/Gitwooder/Wooder/.git/COMMIT_EDITMSG",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/App.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Body/Product/Product_text/Product_text.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/About/About.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/About/About.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Header/Header.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Header/Header.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Body/Product/Product_text/Product_text_L.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Body/Product/Product.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Body/Body.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Cover/Cover.js",
+		"/C/Users/Даня/Desktop/portfolio(3)/script.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/SearchContainer.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Footer/Footer.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Video/Video.js",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Video/Video.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Quality/Quality.module.css",
+		"/D/React_learn/Gitwooder/Wooder/wooder/src/Components/Quality/Quality.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/SearchElement/SearchElement.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/Search.js",
+		"/D/React_learn/react_kabzda_1/src/redux/SearchReducer.js",
+		"/D/React_learn/react_kabzda_1/src/redux/redux-store.js",
+		"/D/React_learn/react_kabzda_1/src/redux/store.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogContainer/Dialog/Dialog.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogContainer/Dialogs.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogsContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/PostsContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/PreLoader/PreLoader.js",
+		"/D/React_learn/wooder/src/Components/Header/Header.js",
+		"/D/React_learn/wooder/src/Components/Header/Header.module.css",
+		"/D/React_learn/wooder/src/Redux/redux-store.js",
+		"/D/React_learn/wooder/src/Redux/DataReducer.js",
+		"/D/React_learn/wooder/src/Components/Video/Video.js",
+		"/D/React_learn/wooder/src/App.js",
+		"/D/React_learn/react_kabzda_1/node_modules/@jest/console/build/NullConsole.js",
+		"/D/React_learn/wooder/src/Components/Quality/Quality.js",
+		"/D/React_learn/wooder/src/Components/Footer/Footer.js",
+		"/D/React_learn/wooder/src/Components/Footer/Footer.module.css",
+		"/D/React_learn/wooder/src/Components/Quality/Quality.module.css",
+		"/D/React_learn/wooder/src/Components/About/About.js",
+		"/D/React_learn/wooder/src/Components/About/About.module.css",
+		"/D/React_learn/wooder/src/Components/Video/Video.module.css",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product_text/Product_text.module.css",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product.js",
+		"/D/React_learn/wooder/src/Components/Body/Body.js",
+		"/D/React_learn/wooder/src/App.css",
+		"/D/React_learn/wooder/src/Components/Body/Body.module.css",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product.module.css",
+		"/D/React_learn/wooder/src/Components/Cover/Cover.module.css",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product_text/Product_text_R.js",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product_text/Product_text_L.js",
+		"/D/React_learn/wooder/src/Components/Cover/Cover.js",
+		"/D/React_learn/wooder/public/index.html",
+		"/D/React_learn/wooder/src/Components/Line/Line.js",
+		"/D/React_learn/wooder/src/Components/Quality/QualityElement/QualityElement.module.css",
+		"/D/React_learn/wooder/src/Components/Quality/QualityElement/QualityElement.js",
+		"/D/React_learn/wooder/src/Components/Quality/QualityElement/QualityElement.mdule.css",
+		"/D/React_learn/wooder/public/images/unnamed.png",
+		"/D/React_learn/wooder/src/index.js",
+		"/D/React_learn/wooder/src/Components/Body/Product/Product_text/Product_text.js",
+		"/D/React_learn/wooder/src/Components/Body/Product/components/Product_text.js",
+		"/D/React_learn/wooder/src/Components/Wrapper/Wrapper.js",
+		"/D/React_learn/wooder/src/Components/Wrapper/Wrapper.module.css",
+		"/D/React_learn/wooder/src/Components/Line/Line.module.css",
+		"/D/React_learn/wooder/src/Components/wrapper.js",
+		"/D/React_learn/wooder/src/Components/Header.js",
+		"/D/React_learn/wooder/src/Components/App.module.css",
+		"/D/React_learn/react_kabzda_1/src/index.js",
+		"/D/React_learn/react_kabzda_1/src/redux/AuthReducer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header/Header.js",
+		"/D/React_learn/react_kabzda_1/src/api/Api.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header/Header.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Header/HeaderContainer.js",
+		"/D/React_learn/react_kabzda_1/src/App.css",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Setting.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Setting.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Profile.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/Search.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/PreLoader/PreLoader.module.css",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/Новая папка/index.html",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/N/index.html",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/script.js",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/index.html",
+		"/C/Users/Даня/Desktop/portfolio(3)/index.html",
+		"/C/Users/Даня/Desktop/tasks/axios/script.js",
+		"/C/Users/Даня/Desktop/tasks/axios/index.html",
+		"/C/Users/Даня/Desktop/tasks/axios/service.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/SearchElement/SearchElement.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialogs.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/redux/reduxStore.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialog/Dialog.js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия.js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия (3).js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия (2).js",
+		"/D/React_learn/react_kabzda_1/src/render.js",
+		"/D/React_learn/react_kabzda_1/node_modules/react-dom/cjs/react-dom.development.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friends.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friends.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.module.css.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Header.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Header.module.css",
+		"/D/React_learn/react_kabzda_1/src/redux/state.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Posts.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Content.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialog/Dialog.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialogs.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Content.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Nav/Nav.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Dialogs.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"D:\\React_learn\\wooder\\src\\img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ,",
+			"email",
+			"li",
+			"}*/\n",
+			"import",
+			"        \n",
+			"classes",
+			"className",
+			"={",
+			">\n",
+			"\t\t\t\t<",
+			"className",
+			"=>{\n",
+			"';\n",
+			"={}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/React_learn/react_kabzda_1/src/api/Api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/React_learn/react_kabzda_1/src/redux/AuthReducer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								824,
+								824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/React_learn/react_kabzda_1/src/components/Login/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								977,
+								977
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/D/React_learn/Gitwooder/Wooder/wooder/src/Redux/DataReducer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/React_learn/Gitwooder/Wooder/wooder/src/Redux/redux-store.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.896477121435,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

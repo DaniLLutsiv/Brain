@@ -1,0 +1,33 @@
+/* HEADER */
+
+.header{
+	width: 100%;
+	padding: 10px 20px;
+	grid-area: h;
+	background-color: #C6C4C4;
+}
+.header_profile{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	position: relative;
+	justify-content: space-between
+}
+
+
+.header_logo{
+	font-size: 40px;
+	font-weight: 700;
+}
+.header_logo:hover{
+	color: #0B77D0;
+}
+.login{
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+	padding-top: 10px;
+	margin-right: 30px;
+}

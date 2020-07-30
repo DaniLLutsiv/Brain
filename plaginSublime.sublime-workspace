@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Lo",
+				"LoginForm"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"is",
+				"isLoader"
+			],
+			[
+				"Com",
+				"componentDidMount"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"N",
+				"NavLink\tnode_modules/react-router-dom"
+			],
+			[
+				"U",
+				"UserData"
+			],
+			[
+				"ke",
+				"keyCreato"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"to",
+				"totalCount"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"pa",
+				"pageElement"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"usre",
+				"users"
+			],
+			[
+				"cs",
+				"classes\tnode_modules/*.module.css"
+			],
+			[
+				"c",
+				"classes\tnode_modules/*.module.css"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"Sea",
+				"Search\tsource_modules"
+			],
+			[
+				"fo",
+				"followed"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"S",
+				"Search\tsource_modules"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"f",
+				"followed"
+			],
+			[
+				"M",
+				"Message"
+			],
+			[
+				"sta",
+				"stateCopy"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"New",
+				"NewPostText"
+			],
+			[
+				"s",
+				"State"
+			],
+			[
+				"Mes",
+				"MessageReducer"
+			],
+			[
+				"me",
+				"Message"
+			],
+			[
+				"a",
+				"addPost"
+			],
+			[
+				"po",
+				"PostMessage"
+			],
+			[
+				"n",
+				"newPostText"
+			],
+			[
+				"fr",
+				"Friend"
+			],
+			[
+				"F",
+				"Friend"
+			],
+			[
+				"Post",
+				"PostsData"
+			],
+			[
+				"Da",
+				"DialogsElement"
+			],
+			[
+				"D",
+				"DialogData"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"ca",
+				"className"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"g",
+				"grid-area\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"mh",
+				"max-height\tproperty"
+			],
+			[
+				"Ge",
+				"getElementById"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"bc",
+				"background-color\tproperty"
+			],
+			[
+				"tt",
+				"tt\ttext-transform"
+			],
+			[
+				"A",
+				"auto\theight"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"justify\ttext-align"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"bgc",
+				"bgc\tbackground-color"
+			],
+			[
+				"w",
+				"Welcome"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"Sl",
+				"Slash"
+			],
+			[
+				"y",
+				"yb"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"ta",
+				"tank"
+			],
+			[
+				"o",
+				"otvet"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"arr",
+				"arrF"
+			],
+			[
+				"L",
+				"Language"
+			],
+			[
+				"va",
+				"value1"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"value",
+				"value2"
+			],
+			[
+				"my",
+				"MY"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ma",
+				"mas2"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"V",
+				"VsegdaNaob"
+			],
+			[
+				"O",
+				"ONN"
+			],
+			[
+				"VS",
+				"Vsegda"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Su",
+				"SUMS"
+			],
+			[
+				"res",
+				"RES"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"ab",
+				"ab_my"
+			],
+			[
+				"da",
+				"display\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"text",
+				"text-align-last\tproperty"
+			],
+			[
+				"sna",
+				"snakeX"
+			],
+			[
+				"new",
+				"newHead"
+			],
+			[
+				"sn",
+				"snakeX"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"sums",
+				"SUMS"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"fz",
+				"fz\tfont-size"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ri",
+				"right\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ar",
+				"alert"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/redux/redux-store.js",
+			"settings":
+			{
+				"buffer_size": 627,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nImportHelper\n------------\n\n  # [3.1.0](https://github.com/unlight/sublime-import-helper/compare/v3.0.2...v3.1.0) (2020-06-30)\n  \n  \n  ### Bug Fixes\n  \n  * Some imports from ambient modules are missing ([098fe1b](https://github.com/unlight/sublime-import-helper/commit/098fe1bf90a3049dbcc1b45d2788506b22746ef4))\n  \n  \n  ### Features\n  \n  * Sorted named imports ([12e2370](https://github.com/unlight/sublime-import-helper/commit/12e237049ec30a9f4c951bc5bf02a57d7eff0144)), closes [#48](https://github.com/unlight/sublime-import-helper/issues/48)\n  \n  ## [3.0.2](https://github.com/unlight/sublime-import-helper/compare/v3.0.1...v3.0.2) (2020-06-12)\n  \n  \n  ### Bug Fixes\n  \n  * Export node modules from non-current directory does not work ([bbbd4c4](https://github.com/unlight/sublime-import-helper/commit/bbbd4c429294ec8d5b515d294e6fbec19d182161))\n  \n  ## [3.0.1](https://github.com/unlight/sublime-import-helper/compare/v3.0.0...v3.0.1) (2020-06-10)\n  \n  \n  ### Bug Fixes\n  \n  * Added no-warnings argument https://nodejs.org/api/cli.html#cli_no_warnings ([b6d78eb](https://github.com/unlight/sublime-import-helper/commit/b6d78ebc9a405e6afdd5a744c90bf2c824597912)), closes [#80](https://github.com/unlight/sublime-import-helper/issues/80)\n  \n  # [3.0.0](https://github.com/unlight/sublime-import-helper/compare/v2.3.2...v3.0.0) (2020-06-09)\n  \n  \n  ### Bug Fixes\n  \n  * Added scope TypeScript unit test ([2760b6c](https://github.com/unlight/sublime-import-helper/commit/2760b6ca883e17b4228def45a26cfd1c98d94021))\n  * Panel items functions did not get call ([2846934](https://github.com/unlight/sublime-import-helper/commit/284693467d202a1d18e925e01b33a31fced22008))\n  \n  \n  ### Features\n  \n  * Auto detect import root from several source folders ([ed4a646](https://github.com/unlight/sublime-import-helper/commit/ed4a646a512b5f952c899178451278e9a49eba6f))\n  * New bundler (webpack) ([e1dd06a](https://github.com/unlight/sublime-import-helper/commit/e1dd06aa259c3ab9b4348f9146ec253b90b1afad))\n  * Removed `from_semicolon` setting ([48393dc](https://github.com/unlight/sublime-import-helper/commit/48393dc4123009560356d3a7769dcf0a2c246df6))\n  * Removed `space_around_braces` setting ([12c7732](https://github.com/unlight/sublime-import-helper/commit/12c7732f426232031042e097b975137b7a1ff7e5))\n  * Removed unused files and settings ([8f78077](https://github.com/unlight/sublime-import-helper/commit/8f78077758f3318a5a0bb25d2a353ab5692fc775))\n  * Removed unused imports command ([b11a5de](https://github.com/unlight/sublime-import-helper/commit/b11a5de3797b251a76b2891b5d22e6164cfe6d14))\n  * Replaced esm-exports by import-adjutor ([bea6160](https://github.com/unlight/sublime-import-helper/commit/bea61609690c0d5047e33313629bc5f2aa5a6f31))\n  * Setting `import_path_mapping` changed to `enabled` by default ([03ff2c3](https://github.com/unlight/sublime-import-helper/commit/03ff2c3c6d1f04ac2de11f447f43ce6ab918b1e2))\n  * Setting `insert_position` removed ([01eac3f](https://github.com/unlight/sublime-import-helper/commit/01eac3f6df909986afba1e93e4c4c58de2055686))\n  \n  \n  ### Performance Improvements\n  \n  * Load node_modules one by one from source folders ([fd8dbf1](https://github.com/unlight/sublime-import-helper/commit/fd8dbf13332a9742cc412b3d115796d59dcb0189))\n  * Moved cut path outside of loop ([65605c2](https://github.com/unlight/sublime-import-helper/commit/65605c2dee81b50360b4c27a72da2d1126b2c804))\n  \n  \n  ### BREAKING CHANGES\n  \n  * Auto detect import root from several source folders (project file is not required)\n  * Removed unused `import_no_match_count` setting\n  * Setting `import_path_mapping` changed to `enabled` by default\n  * Removed `space_around_braces` setting, now it is always true\n  * Removed `from_semicolon` setting, now it is always true\n  * Removed unused imports command, the replacement is eslint/tslint rules with fixers https://github.com/cartant/tslint-etc (no-unused-declaration)\n  * New bundler (webpack)\n  * Replaced esm-exports by import-adjutor, required Node.js 10+\n  \n  ### Old Changelog\n  \n  | Version | Date        | Description                                                                                                     |\n  |:--------|:------------|:----------------------------------------------------------------------------------------------------------------|\n  | 2.3.2   | 27 May 2020 | Improved import to import default statement                                                                     |\n  | 2.3.1   | 03 Nov 2019 | Fixed [#71](https://github.com/unlight/sublime-import-helper/issues/71)                                         |\n  | 2.3.0   | 14 Sep 2019 | Minor fixes, progress status                                                                                    |\n  | 2.2.1   | 15 Jun 2019 | Minor fixes                                                                                                     |\n  | 2.2.0   | 22 May 2019 | Support passing file / folder exclude options [#64](https://github.com/unlight/sublime-import-helper/issues/64) |\n  | 2.1.0   | 31 Mar 2019 | Refactoring, updated esm-exports, allow import default, fixed exclude logic                                     |\n  | 2.0.5   | 22 Dec 2018 | Fixed [#61](https://github.com/unlight/sublime-import-helper/issues/61)                                         |\n  | 2.0.4   | 08 Dec 2018 | Fixed #62 (remove unsed imports with dollar sign                                                                |\n  | 2.0.3   | 10 Nov 2018 | Alllow to select import path (typescript paths)                                                                 |\n  | 2.0.2   | 13 Oct 2018 | Remove trailing index in import path [#59](https://github.com/unlight/sublime-import-helper/issues/59)          |\n  |         |             | Null reference [#60](https://github.com/unlight/sublime-import-helper/issues/60)                                |\n  | 2.0.1   | 13 Aug 2018 | Added key bind to update source modules [#58](https://github.com/unlight/sublime-import-helper/issues/58)       |\n  | 2.0.0   | 20 Apr 2018 | Path mapping [#54](https://github.com/unlight/sublime-import-helper/issues/54)                                  |\n  |         |             | Autocomplete support [#57](https://github.com/unlight/sublime-import-helper/issues/57)                          |\n  | 1.8.2   | 14 Apr 2018 | Fixed [#56](https://github.com/unlight/sublime-import-helper/issues/56)                                         |\n  | 1.8.1   | 22 Feb 2018 | Fixed [#51](https://github.com/unlight/sublime-import-helper/issues/51)                                         |\n  | 1.8.0   | 22 Feb 2018 | Fixed [#50](https://github.com/unlight/sublime-import-helper/issues/50)                                         |\n  | 1.7.6   | 12 Dec 2017 | Fixed [#47](https://github.com/unlight/sublime-import-helper/issues/47)                                         |\n  | 1.7.5   | 11 Dec 2017 | Added `from_semicolon` setting                                                                                  |\n  | 1.7.4   | 30 Nov 2017 | Delayed initialization                                                                                          |\n  | 1.7.3   | 30 Nov 2017 | `node_bin` setting to explicitly set path to node binary                                                        |\n  | 1.7.1   | 29 Nov 2017 | Try to find node executable                                                                                     |\n  | 1.7.0   | 22 Nov 2017 | Updated `esm-exports` to 2.0.0                                                                                  |\n  |         |             | Added shell true #43                                                                                            |\n  | 1.6.4   | 03 Nov 2017 | Updated `esm-exports` to v0.8.5                                                                                 |\n  | 1.6.3   | 20 Oct 2017 | Fixed #42 settings does not work                                                                                |\n  | 1.6.2   | 18 Oct 2017 | Fix for empty projects                                                                                          |\n  | 1.6.0   | 06 Oct 2017 | New feature remove unused imports                                                                               |\n  | 1.5.0   | 24 Jun 2017 | Added update source modules command                                                                             |\n  | 1.4.1   | 03 May 2017 | Import tsx/jsx without extension                                                                                |\n  | 1.4.0   | 29 Mar 2017 | Settings per project                                                                                            |\n  | 1.3.0   | 23 Mar 2017 | Prevent fail while parse link to not existing directory                                                         |\n  | 1.1.1   | 09 Mar 2017 | Respect exclude_patterns project settings                                                                       |\n  | 1.1.0   | 25 Feb 2017 | Auto update imports when new file saved                                                                         |\n  |         |             | Unit tests, bug fixing                                                                                          |\n  |         |             | Parse inner modules                                                                                             |\n  | 1.0.10  | 30 Jan 2017 | Fixed errors when broken package.json                                                                           |\n  | 1.0.8   | 24 Jan 2017 | Added .no-sublime-package                                                                                       |\n  | 1.0.7   | 21 Jan 2017 | Fixed #10 incorrect adding to `import as`                                                                       |\n  | 1.0.6   | 10 Jan 2017 | Updated esm-exports modules to 0.3.2                                                                            |\n  | 1.0.5   | 10 Jan 2017 | Updated esm-exports modules to 0.3.1                                                                            |\n  | 1.0.3   | 26 Dec 2016 | Setting `space_around_braces`                                                                                   |\n  | 1.0.1   | 19 Dec 2016 | Fixed loading settings bug                                                                                      |\n  | 1.0.0   | 18 Dec 2016 | First release                                                                                                   |\n\n  # [3.1.0](https://github.com/unlight/sublime-import-helper/compare/v3.0.2...v3.1.0) (2020-06-30)\n  \n  \n  ### Bug Fixes\n  \n  * Some imports from ambient modules are missing ([098fe1b](https://github.com/unlight/sublime-import-helper/commit/098fe1bf90a3049dbcc1b45d2788506b22746ef4))\n  \n  \n  ### Features\n  \n  * Sorted named imports ([12e2370](https://github.com/unlight/sublime-import-helper/commit/12e237049ec30a9f4c951bc5bf02a57d7eff0144)), closes [#48](https://github.com/unlight/sublime-import-helper/issues/48)\n  \n  ## [3.0.2](https://github.com/unlight/sublime-import-helper/compare/v3.0.1...v3.0.2) (2020-06-12)\n  \n  \n  ### Bug Fixes\n  \n  * Export node modules from non-current directory does not work ([bbbd4c4](https://github.com/unlight/sublime-import-helper/commit/bbbd4c429294ec8d5b515d294e6fbec19d182161))\n  \n  ## [3.0.1](https://github.com/unlight/sublime-import-helper/compare/v3.0.0...v3.0.1) (2020-06-10)\n  \n  \n  ### Bug Fixes\n  \n  * Added no-warnings argument https://nodejs.org/api/cli.html#cli_no_warnings ([b6d78eb](https://github.com/unlight/sublime-import-helper/commit/b6d78ebc9a405e6afdd5a744c90bf2c824597912)), closes [#80](https://github.com/unlight/sublime-import-helper/issues/80)\n  \n  # [3.0.0](https://github.com/unlight/sublime-import-helper/compare/v2.3.2...v3.0.0) (2020-06-09)\n  \n  \n  ### Bug Fixes\n  \n  * Added scope TypeScript unit test ([2760b6c](https://github.com/unlight/sublime-import-helper/commit/2760b6ca883e17b4228def45a26cfd1c98d94021))\n  * Panel items functions did not get call ([2846934](https://github.com/unlight/sublime-import-helper/commit/284693467d202a1d18e925e01b33a31fced22008))\n  \n  \n  ### Features\n  \n  * Auto detect import root from several source folders ([ed4a646](https://github.com/unlight/sublime-import-helper/commit/ed4a646a512b5f952c899178451278e9a49eba6f))\n  * New bundler (webpack) ([e1dd06a](https://github.com/unlight/sublime-import-helper/commit/e1dd06aa259c3ab9b4348f9146ec253b90b1afad))\n  * Removed `from_semicolon` setting ([48393dc](https://github.com/unlight/sublime-import-helper/commit/48393dc4123009560356d3a7769dcf0a2c246df6))\n  * Removed `space_around_braces` setting ([12c7732](https://github.com/unlight/sublime-import-helper/commit/12c7732f426232031042e097b975137b7a1ff7e5))\n  * Removed unused files and settings ([8f78077](https://github.com/unlight/sublime-import-helper/commit/8f78077758f3318a5a0bb25d2a353ab5692fc775))\n  * Removed unused imports command ([b11a5de](https://github.com/unlight/sublime-import-helper/commit/b11a5de3797b251a76b2891b5d22e6164cfe6d14))\n  * Replaced esm-exports by import-adjutor ([bea6160](https://github.com/unlight/sublime-import-helper/commit/bea61609690c0d5047e33313629bc5f2aa5a6f31))\n  * Setting `import_path_mapping` changed to `enabled` by default ([03ff2c3](https://github.com/unlight/sublime-import-helper/commit/03ff2c3c6d1f04ac2de11f447f43ce6ab918b1e2))\n  * Setting `insert_position` removed ([01eac3f](https://github.com/unlight/sublime-import-helper/commit/01eac3f6df909986afba1e93e4c4c58de2055686))\n  \n  \n  ### Performance Improvements\n  \n  * Load node_modules one by one from source folders ([fd8dbf1](https://github.com/unlight/sublime-import-helper/commit/fd8dbf13332a9742cc412b3d115796d59dcb0189))\n  * Moved cut path outside of loop ([65605c2](https://github.com/unlight/sublime-import-helper/commit/65605c2dee81b50360b4c27a72da2d1126b2c804))\n  \n  \n  ### BREAKING CHANGES\n  \n  * Auto detect import root from several source folders (project file is not required)\n  * Removed unused `import_no_match_count` setting\n  * Setting `import_path_mapping` changed to `enabled` by default\n  * Removed `space_around_braces` setting, now it is always true\n  * Removed `from_semicolon` setting, now it is always true\n  * Removed unused imports command, the replacement is eslint/tslint rules with fixers https://github.com/cartant/tslint-etc (no-unused-declaration)\n  * New bundler (webpack)\n  * Replaced esm-exports by import-adjutor, required Node.js 10+\n  \n  ### Old Changelog\n  \n  | Version | Date        | Description                                                                                                     |\n  |:--------|:------------|:----------------------------------------------------------------------------------------------------------------|\n  | 2.3.2   | 27 May 2020 | Improved import to import default statement                                                                     |\n  | 2.3.1   | 03 Nov 2019 | Fixed [#71](https://github.com/unlight/sublime-import-helper/issues/71)                                         |\n  | 2.3.0   | 14 Sep 2019 | Minor fixes, progress status                                                                                    |\n  | 2.2.1   | 15 Jun 2019 | Minor fixes                                                                                                     |\n  | 2.2.0   | 22 May 2019 | Support passing file / folder exclude options [#64](https://github.com/unlight/sublime-import-helper/issues/64) |\n  | 2.1.0   | 31 Mar 2019 | Refactoring, updated esm-exports, allow import default, fixed exclude logic                                     |\n  | 2.0.5   | 22 Dec 2018 | Fixed [#61](https://github.com/unlight/sublime-import-helper/issues/61)                                         |\n  | 2.0.4   | 08 Dec 2018 | Fixed #62 (remove unsed imports with dollar sign                                                                |\n  | 2.0.3   | 10 Nov 2018 | Alllow to select import path (typescript paths)                                                                 |\n  | 2.0.2   | 13 Oct 2018 | Remove trailing index in import path [#59](https://github.com/unlight/sublime-import-helper/issues/59)          |\n  |         |             | Null reference [#60](https://github.com/unlight/sublime-import-helper/issues/60)                                |\n  | 2.0.1   | 13 Aug 2018 | Added key bind to update source modules [#58](https://github.com/unlight/sublime-import-helper/issues/58)       |\n  | 2.0.0   | 20 Apr 2018 | Path mapping [#54](https://github.com/unlight/sublime-import-helper/issues/54)                                  |\n  |         |             | Autocomplete support [#57](https://github.com/unlight/sublime-import-helper/issues/57)                          |\n  | 1.8.2   | 14 Apr 2018 | Fixed [#56](https://github.com/unlight/sublime-import-helper/issues/56)                                         |\n  | 1.8.1   | 22 Feb 2018 | Fixed [#51](https://github.com/unlight/sublime-import-helper/issues/51)                                         |\n  | 1.8.0   | 22 Feb 2018 | Fixed [#50](https://github.com/unlight/sublime-import-helper/issues/50)                                         |\n  | 1.7.6   | 12 Dec 2017 | Fixed [#47](https://github.com/unlight/sublime-import-helper/issues/47)                                         |\n  | 1.7.5   | 11 Dec 2017 | Added `from_semicolon` setting                                                                                  |\n  | 1.7.4   | 30 Nov 2017 | Delayed initialization                                                                                          |\n  | 1.7.3   | 30 Nov 2017 | `node_bin` setting to explicitly set path to node binary                                                        |\n  | 1.7.1   | 29 Nov 2017 | Try to find node executable                                                                                     |\n  | 1.7.0   | 22 Nov 2017 | Updated `esm-exports` to 2.0.0                                                                                  |\n  |         |             | Added shell true #43                                                                                            |\n  | 1.6.4   | 03 Nov 2017 | Updated `esm-exports` to v0.8.5                                                                                 |\n  | 1.6.3   | 20 Oct 2017 | Fixed #42 settings does not work                                                                                |\n  | 1.6.2   | 18 Oct 2017 | Fix for empty projects                                                                                          |\n  | 1.6.0   | 06 Oct 2017 | New feature remove unused imports                                                                               |\n  | 1.5.0   | 24 Jun 2017 | Added update source modules command                                                                             |\n  | 1.4.1   | 03 May 2017 | Import tsx/jsx without extension                                                                                |\n  | 1.4.0   | 29 Mar 2017 | Settings per project                                                                                            |\n  | 1.3.0   | 23 Mar 2017 | Prevent fail while parse link to not existing directory                                                         |\n  | 1.1.1   | 09 Mar 2017 | Respect exclude_patterns project settings                                                                       |\n  | 1.1.0   | 25 Feb 2017 | Auto update imports when new file saved                                                                         |\n  |         |             | Unit tests, bug fixing                                                                                          |\n  |         |             | Parse inner modules                                                                                             |\n  | 1.0.10  | 30 Jan 2017 | Fixed errors when broken package.json                                                                           |\n  | 1.0.8   | 24 Jan 2017 | Added .no-sublime-package                                                                                       |\n  | 1.0.7   | 21 Jan 2017 | Fixed #10 incorrect adding to `import as`                                                                       |\n  | 1.0.6   | 10 Jan 2017 | Updated esm-exports modules to 0.3.2                                                                            |\n  | 1.0.5   | 10 Jan 2017 | Updated esm-exports modules to 0.3.1                                                                            |\n  | 1.0.3   | 26 Dec 2016 | Setting `space_around_braces`                                                                                   |\n  | 1.0.1   | 19 Dec 2016 | Fixed loading settings bug                                                                                      |\n  | 1.0.0   | 18 Dec 2016 | First release                                                                                                   |\n\n  # [3.1.0](https://github.com/unlight/sublime-import-helper/compare/v3.0.2...v3.1.0) (2020-06-30)\n  \n  \n  ### Bug Fixes\n  \n  * Some imports from ambient modules are missing ([098fe1b](https://github.com/unlight/sublime-import-helper/commit/098fe1bf90a3049dbcc1b45d2788506b22746ef4))\n  \n  \n  ### Features\n  \n  * Sorted named imports ([12e2370](https://github.com/unlight/sublime-import-helper/commit/12e237049ec30a9f4c951bc5bf02a57d7eff0144)), closes [#48](https://github.com/unlight/sublime-import-helper/issues/48)\n  \n  ## [3.0.2](https://github.com/unlight/sublime-import-helper/compare/v3.0.1...v3.0.2) (2020-06-12)\n  \n  \n  ### Bug Fixes\n  \n  * Export node modules from non-current directory does not work ([bbbd4c4](https://github.com/unlight/sublime-import-helper/commit/bbbd4c429294ec8d5b515d294e6fbec19d182161))\n  \n  ## [3.0.1](https://github.com/unlight/sublime-import-helper/compare/v3.0.0...v3.0.1) (2020-06-10)\n  \n  \n  ### Bug Fixes\n  \n  * Added no-warnings argument https://nodejs.org/api/cli.html#cli_no_warnings ([b6d78eb](https://github.com/unlight/sublime-import-helper/commit/b6d78ebc9a405e6afdd5a744c90bf2c824597912)), closes [#80](https://github.com/unlight/sublime-import-helper/issues/80)\n  \n  # [3.0.0](https://github.com/unlight/sublime-import-helper/compare/v2.3.2...v3.0.0) (2020-06-09)\n  \n  \n  ### Bug Fixes\n  \n  * Added scope TypeScript unit test ([2760b6c](https://github.com/unlight/sublime-import-helper/commit/2760b6ca883e17b4228def45a26cfd1c98d94021))\n  * Panel items functions did not get call ([2846934](https://github.com/unlight/sublime-import-helper/commit/284693467d202a1d18e925e01b33a31fced22008))\n  \n  \n  ### Features\n  \n  * Auto detect import root from several source folders ([ed4a646](https://github.com/unlight/sublime-import-helper/commit/ed4a646a512b5f952c899178451278e9a49eba6f))\n  * New bundler (webpack) ([e1dd06a](https://github.com/unlight/sublime-import-helper/commit/e1dd06aa259c3ab9b4348f9146ec253b90b1afad))\n  * Removed `from_semicolon` setting ([48393dc](https://github.com/unlight/sublime-import-helper/commit/48393dc4123009560356d3a7769dcf0a2c246df6))\n  * Removed `space_around_braces` setting ([12c7732](https://github.com/unlight/sublime-import-helper/commit/12c7732f426232031042e097b975137b7a1ff7e5))\n  * Removed unused files and settings ([8f78077](https://github.com/unlight/sublime-import-helper/commit/8f78077758f3318a5a0bb25d2a353ab5692fc775))\n  * Removed unused imports command ([b11a5de](https://github.com/unlight/sublime-import-helper/commit/b11a5de3797b251a76b2891b5d22e6164cfe6d14))\n  * Replaced esm-exports by import-adjutor ([bea6160](https://github.com/unlight/sublime-import-helper/commit/bea61609690c0d5047e33313629bc5f2aa5a6f31))\n  * Setting `import_path_mapping` changed to `enabled` by default ([03ff2c3](https://github.com/unlight/sublime-import-helper/commit/03ff2c3c6d1f04ac2de11f447f43ce6ab918b1e2))\n  * Setting `insert_position` removed ([01eac3f](https://github.com/unlight/sublime-import-helper/commit/01eac3f6df909986afba1e93e4c4c58de2055686))\n  \n  \n  ### Performance Improvements\n  \n  * Load node_modules one by one from source folders ([fd8dbf1](https://github.com/unlight/sublime-import-helper/commit/fd8dbf13332a9742cc412b3d115796d59dcb0189))\n  * Moved cut path outside of loop ([65605c2](https://github.com/unlight/sublime-import-helper/commit/65605c2dee81b50360b4c27a72da2d1126b2c804))\n  \n  \n  ### BREAKING CHANGES\n  \n  * Auto detect import root from several source folders (project file is not required)\n  * Removed unused `import_no_match_count` setting\n  * Setting `import_path_mapping` changed to `enabled` by default\n  * Removed `space_around_braces` setting, now it is always true\n  * Removed `from_semicolon` setting, now it is always true\n  * Removed unused imports command, the replacement is eslint/tslint rules with fixers https://github.com/cartant/tslint-etc (no-unused-declaration)\n  * New bundler (webpack)\n  * Replaced esm-exports by import-adjutor, required Node.js 10+\n  \n  ### Old Changelog\n  \n  | Version | Date        | Description                                                                                                     |\n  |:--------|:------------|:----------------------------------------------------------------------------------------------------------------|\n  | 2.3.2   | 27 May 2020 | Improved import to import default statement                                                                     |\n  | 2.3.1   | 03 Nov 2019 | Fixed [#71](https://github.com/unlight/sublime-import-helper/issues/71)                                         |\n  | 2.3.0   | 14 Sep 2019 | Minor fixes, progress status                                                                                    |\n  | 2.2.1   | 15 Jun 2019 | Minor fixes                                                                                                     |\n  | 2.2.0   | 22 May 2019 | Support passing file / folder exclude options [#64](https://github.com/unlight/sublime-import-helper/issues/64) |\n  | 2.1.0   | 31 Mar 2019 | Refactoring, updated esm-exports, allow import default, fixed exclude logic                                     |\n  | 2.0.5   | 22 Dec 2018 | Fixed [#61](https://github.com/unlight/sublime-import-helper/issues/61)                                         |\n  | 2.0.4   | 08 Dec 2018 | Fixed #62 (remove unsed imports with dollar sign                                                                |\n  | 2.0.3   | 10 Nov 2018 | Alllow to select import path (typescript paths)                                                                 |\n  | 2.0.2   | 13 Oct 2018 | Remove trailing index in import path [#59](https://github.com/unlight/sublime-import-helper/issues/59)          |\n  |         |             | Null reference [#60](https://github.com/unlight/sublime-import-helper/issues/60)                                |\n  | 2.0.1   | 13 Aug 2018 | Added key bind to update source modules [#58](https://github.com/unlight/sublime-import-helper/issues/58)       |\n  | 2.0.0   | 20 Apr 2018 | Path mapping [#54](https://github.com/unlight/sublime-import-helper/issues/54)                                  |\n  |         |             | Autocomplete support [#57](https://github.com/unlight/sublime-import-helper/issues/57)                          |\n  | 1.8.2   | 14 Apr 2018 | Fixed [#56](https://github.com/unlight/sublime-import-helper/issues/56)                                         |\n  | 1.8.1   | 22 Feb 2018 | Fixed [#51](https://github.com/unlight/sublime-import-helper/issues/51)                                         |\n  | 1.8.0   | 22 Feb 2018 | Fixed [#50](https://github.com/unlight/sublime-import-helper/issues/50)                                         |\n  | 1.7.6   | 12 Dec 2017 | Fixed [#47](https://github.com/unlight/sublime-import-helper/issues/47)                                         |\n  | 1.7.5   | 11 Dec 2017 | Added `from_semicolon` setting                                                                                  |\n  | 1.7.4   | 30 Nov 2017 | Delayed initialization                                                                                          |\n  | 1.7.3   | 30 Nov 2017 | `node_bin` setting to explicitly set path to node binary                                                        |\n  | 1.7.1   | 29 Nov 2017 | Try to find node executable                                                                                     |\n  | 1.7.0   | 22 Nov 2017 | Updated `esm-exports` to 2.0.0                                                                                  |\n  |         |             | Added shell true #43                                                                                            |\n  | 1.6.4   | 03 Nov 2017 | Updated `esm-exports` to v0.8.5                                                                                 |\n  | 1.6.3   | 20 Oct 2017 | Fixed #42 settings does not work                                                                                |\n  | 1.6.2   | 18 Oct 2017 | Fix for empty projects                                                                                          |\n  | 1.6.0   | 06 Oct 2017 | New feature remove unused imports                                                                               |\n  | 1.5.0   | 24 Jun 2017 | Added update source modules command                                                                             |\n  | 1.4.1   | 03 May 2017 | Import tsx/jsx without extension                                                                                |\n  | 1.4.0   | 29 Mar 2017 | Settings per project                                                                                            |\n  | 1.3.0   | 23 Mar 2017 | Prevent fail while parse link to not existing directory                                                         |\n  | 1.1.1   | 09 Mar 2017 | Respect exclude_patterns project settings                                                                       |\n  | 1.1.0   | 25 Feb 2017 | Auto update imports when new file saved                                                                         |\n  |         |             | Unit tests, bug fixing                                                                                          |\n  |         |             | Parse inner modules                                                                                             |\n  | 1.0.10  | 30 Jan 2017 | Fixed errors when broken package.json                                                                           |\n  | 1.0.8   | 24 Jan 2017 | Added .no-sublime-package                                                                                       |\n  | 1.0.7   | 21 Jan 2017 | Fixed #10 incorrect adding to `import as`                                                                       |\n  | 1.0.6   | 10 Jan 2017 | Updated esm-exports modules to 0.3.2                                                                            |\n  | 1.0.5   | 10 Jan 2017 | Updated esm-exports modules to 0.3.1                                                                            |\n  | 1.0.3   | 26 Dec 2016 | Setting `space_around_braces`                                                                                   |\n  | 1.0.1   | 19 Dec 2016 | Fixed loading settings bug                                                                                      |\n  | 1.0.0   | 18 Dec 2016 | First release                                                                                                   |\n\n  # [3.1.0](https://github.com/unlight/sublime-import-helper/compare/v3.0.2...v3.1.0) (2020-06-30)\n  \n  \n  ### Bug Fixes\n  \n  * Some imports from ambient modules are missing ([098fe1b](https://github.com/unlight/sublime-import-helper/commit/098fe1bf90a3049dbcc1b45d2788506b22746ef4))\n  \n  \n  ### Features\n  \n  * Sorted named imports ([12e2370](https://github.com/unlight/sublime-import-helper/commit/12e237049ec30a9f4c951bc5bf02a57d7eff0144)), closes [#48](https://github.com/unlight/sublime-import-helper/issues/48)\n  \n  ## [3.0.2](https://github.com/unlight/sublime-import-helper/compare/v3.0.1...v3.0.2) (2020-06-12)\n  \n  \n  ### Bug Fixes\n  \n  * Export node modules from non-current directory does not work ([bbbd4c4](https://github.com/unlight/sublime-import-helper/commit/bbbd4c429294ec8d5b515d294e6fbec19d182161))\n  \n  ## [3.0.1](https://github.com/unlight/sublime-import-helper/compare/v3.0.0...v3.0.1) (2020-06-10)\n  \n  \n  ### Bug Fixes\n  \n  * Added no-warnings argument https://nodejs.org/api/cli.html#cli_no_warnings ([b6d78eb](https://github.com/unlight/sublime-import-helper/commit/b6d78ebc9a405e6afdd5a744c90bf2c824597912)), closes [#80](https://github.com/unlight/sublime-import-helper/issues/80)\n  \n  # [3.0.0](https://github.com/unlight/sublime-import-helper/compare/v2.3.2...v3.0.0) (2020-06-09)\n  \n  \n  ### Bug Fixes\n  \n  * Added scope TypeScript unit test ([2760b6c](https://github.com/unlight/sublime-import-helper/commit/2760b6ca883e17b4228def45a26cfd1c98d94021))\n  * Panel items functions did not get call ([2846934](https://github.com/unlight/sublime-import-helper/commit/284693467d202a1d18e925e01b33a31fced22008))\n  \n  \n  ### Features\n  \n  * Auto detect import root from several source folders ([ed4a646](https://github.com/unlight/sublime-import-helper/commit/ed4a646a512b5f952c899178451278e9a49eba6f))\n  * New bundler (webpack) ([e1dd06a](https://github.com/unlight/sublime-import-helper/commit/e1dd06aa259c3ab9b4348f9146ec253b90b1afad))\n  * Removed `from_semicolon` setting ([48393dc](https://github.com/unlight/sublime-import-helper/commit/48393dc4123009560356d3a7769dcf0a2c246df6))\n  * Removed `space_around_braces` setting ([12c7732](https://github.com/unlight/sublime-import-helper/commit/12c7732f426232031042e097b975137b7a1ff7e5))\n  * Removed unused files and settings ([8f78077](https://github.com/unlight/sublime-import-helper/commit/8f78077758f3318a5a0bb25d2a353ab5692fc775))\n  * Removed unused imports command ([b11a5de](https://github.com/unlight/sublime-import-helper/commit/b11a5de3797b251a76b2891b5d22e6164cfe6d14))\n  * Replaced esm-exports by import-adjutor ([bea6160](https://github.com/unlight/sublime-import-helper/commit/bea61609690c0d5047e33313629bc5f2aa5a6f31))\n  * Setting `import_path_mapping` changed to `enabled` by default ([03ff2c3](https://github.com/unlight/sublime-import-helper/commit/03ff2c3c6d1f04ac2de11f447f43ce6ab918b1e2))\n  * Setting `insert_position` removed ([01eac3f](https://github.com/unlight/sublime-import-helper/commit/01eac3f6df909986afba1e93e4c4c58de2055686))\n  \n  \n  ### Performance Improvements\n  \n  * Load node_modules one by one from source folders ([fd8dbf1](https://github.com/unlight/sublime-import-helper/commit/fd8dbf13332a9742cc412b3d115796d59dcb0189))\n  * Moved cut path outside of loop ([65605c2](https://github.com/unlight/sublime-import-helper/commit/65605c2dee81b50360b4c27a72da2d1126b2c804))\n  \n  \n  ### BREAKING CHANGES\n  \n  * Auto detect import root from several source folders (project file is not required)\n  * Removed unused `import_no_match_count` setting\n  * Setting `import_path_mapping` changed to `enabled` by default\n  * Removed `space_around_braces` setting, now it is always true\n  * Removed `from_semicolon` setting, now it is always true\n  * Removed unused imports command, the replacement is eslint/tslint rules with fixers https://github.com/cartant/tslint-etc (no-unused-declaration)\n  * New bundler (webpack)\n  * Replaced esm-exports by import-adjutor, required Node.js 10+\n  \n  ### Old Changelog\n  \n  | Version | Date        | Description                                                                                                     |\n  |:--------|:------------|:----------------------------------------------------------------------------------------------------------------|\n  | 2.3.2   | 27 May 2020 | Improved import to import default statement                                                                     |\n  | 2.3.1   | 03 Nov 2019 | Fixed [#71](https://github.com/unlight/sublime-import-helper/issues/71)                                         |\n  | 2.3.0   | 14 Sep 2019 | Minor fixes, progress status                                                                                    |\n  | 2.2.1   | 15 Jun 2019 | Minor fixes                                                                                                     |\n  | 2.2.0   | 22 May 2019 | Support passing file / folder exclude options [#64](https://github.com/unlight/sublime-import-helper/issues/64) |\n  | 2.1.0   | 31 Mar 2019 | Refactoring, updated esm-exports, allow import default, fixed exclude logic                                     |\n  | 2.0.5   | 22 Dec 2018 | Fixed [#61](https://github.com/unlight/sublime-import-helper/issues/61)                                         |\n  | 2.0.4   | 08 Dec 2018 | Fixed #62 (remove unsed imports with dollar sign                                                                |\n  | 2.0.3   | 10 Nov 2018 | Alllow to select import path (typescript paths)                                                                 |\n  | 2.0.2   | 13 Oct 2018 | Remove trailing index in import path [#59](https://github.com/unlight/sublime-import-helper/issues/59)          |\n  |         |             | Null reference [#60](https://github.com/unlight/sublime-import-helper/issues/60)                                |\n  | 2.0.1   | 13 Aug 2018 | Added key bind to update source modules [#58](https://github.com/unlight/sublime-import-helper/issues/58)       |\n  | 2.0.0   | 20 Apr 2018 | Path mapping [#54](https://github.com/unlight/sublime-import-helper/issues/54)                                  |\n  |         |             | Autocomplete support [#57](https://github.com/unlight/sublime-import-helper/issues/57)                          |\n  | 1.8.2   | 14 Apr 2018 | Fixed [#56](https://github.com/unlight/sublime-import-helper/issues/56)                                         |\n  | 1.8.1   | 22 Feb 2018 | Fixed [#51](https://github.com/unlight/sublime-import-helper/issues/51)                                         |\n  | 1.8.0   | 22 Feb 2018 | Fixed [#50](https://github.com/unlight/sublime-import-helper/issues/50)                                         |\n  | 1.7.6   | 12 Dec 2017 | Fixed [#47](https://github.com/unlight/sublime-import-helper/issues/47)                                         |\n  | 1.7.5   | 11 Dec 2017 | Added `from_semicolon` setting                                                                                  |\n  | 1.7.4   | 30 Nov 2017 | Delayed initialization                                                                                          |\n  | 1.7.3   | 30 Nov 2017 | `node_bin` setting to explicitly set path to node binary                                                        |\n  | 1.7.1   | 29 Nov 2017 | Try to find node executable                                                                                     |\n  | 1.7.0   | 22 Nov 2017 | Updated `esm-exports` to 2.0.0                                                                                  |\n  |         |             | Added shell true #43                                                                                            |\n  | 1.6.4   | 03 Nov 2017 | Updated `esm-exports` to v0.8.5                                                                                 |\n  | 1.6.3   | 20 Oct 2017 | Fixed #42 settings does not work                                                                                |\n  | 1.6.2   | 18 Oct 2017 | Fix for empty projects                                                                                          |\n  | 1.6.0   | 06 Oct 2017 | New feature remove unused imports                                                                               |\n  | 1.5.0   | 24 Jun 2017 | Added update source modules command                                                                             |\n  | 1.4.1   | 03 May 2017 | Import tsx/jsx without extension                                                                                |\n  | 1.4.0   | 29 Mar 2017 | Settings per project                                                                                            |\n  | 1.3.0   | 23 Mar 2017 | Prevent fail while parse link to not existing directory                                                         |\n  | 1.1.1   | 09 Mar 2017 | Respect exclude_patterns project settings                                                                       |\n  | 1.1.0   | 25 Feb 2017 | Auto update imports when new file saved                                                                         |\n  |         |             | Unit tests, bug fixing                                                                                          |\n  |         |             | Parse inner modules                                                                                             |\n  | 1.0.10  | 30 Jan 2017 | Fixed errors when broken package.json                                                                           |\n  | 1.0.8   | 24 Jan 2017 | Added .no-sublime-package                                                                                       |\n  | 1.0.7   | 21 Jan 2017 | Fixed #10 incorrect adding to `import as`                                                                       |\n  | 1.0.6   | 10 Jan 2017 | Updated esm-exports modules to 0.3.2                                                                            |\n  | 1.0.5   | 10 Jan 2017 | Updated esm-exports modules to 0.3.1                                                                            |\n  | 1.0.3   | 26 Dec 2016 | Setting `space_around_braces`                                                                                   |\n  | 1.0.1   | 19 Dec 2016 | Fixed loading settings bug                                                                                      |\n  | 1.0.0   | 18 Dec 2016 | First release                                                                                                   |\n",
+			"settings":
+			{
+				"buffer_size": 42241,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/React_learn/react_kabzda_1",
+		"/D/React_learn/react_kabzda_1/src",
+		"/D/React_learn/react_kabzda_1/src/components",
+		"/D/React_learn/react_kabzda_1/src/components/Header"
+	],
+	"file_history":
+	[
+		"/D/React_learn/react_kabzda_1/src/components/Login/login.js",
+		"/D/React_learn/react_kabzda_1/src/hoc/withAuthRedirect.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/PostsContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogsContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogContainer/Dialogs.js",
+		"/D/React_learn/react_kabzda_1/src/redux/AuthReducer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/ProfileContainer.js",
+		"/D/React_learn/react_kabzda_1/src/App.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header/Header.js",
+		"/D/React_learn/react_kabzda_1/src/index.js",
+		"/D/React_learn/react_kabzda_1/src/api/Api.js",
+		"/D/React_learn/react_kabzda_1/src/redux/MessageReducer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header/Header.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Header/HeaderContainer.js",
+		"/D/React_learn/react_kabzda_1/src/App.css",
+		"/D/React_learn/react_kabzda_1/src/redux/SearchReducer.js",
+		"/D/React_learn/react_kabzda_1/src/redux/ProfileReducer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/SearchContainer.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/DialogContainer/Dialog/Dialog.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/SearchElement/SearchElement.js",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Setting.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Setting.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/Search.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/PostContainer/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/PreLoader/PreLoader.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Profile.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/Search.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/PreLoader/PreLoader.module.css",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/Новая папка/index.html",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/N/index.html",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/script.js",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/index.html",
+		"/C/Users/Даня/Desktop/portfolio(3)/index.html",
+		"/C/Users/Даня/Desktop/tasks/axios/script.js",
+		"/C/Users/Даня/Desktop/tasks/axios/index.html",
+		"/C/Users/Даня/Desktop/tasks/axios/service.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search/SearchElement/SearchElement.module.css",
+		"/D/React_learn/react_kabzda_1/src/redux/redux-store.js",
+		"/D/React_learn/react_kabzda_1/src/redux/store.js",
+		"/D/React_learn/react_kabzda_1/src/components/Search/Search.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Nav/Nav.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialogs.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/redux/reduxStore.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialog/Dialog.js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия.js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия (3).js",
+		"/D/React_learn/react_kabzda_1/src/redux/state - копия (2).js",
+		"/D/React_learn/react_kabzda_1/src/render.js",
+		"/D/React_learn/react_kabzda_1/node_modules/react-dom/cjs/react-dom.development.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friends.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friends.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Friend/Friend.module.css.css",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Header.js",
+		"/D/React_learn/react_kabzda_1/src/components/Friends/Header.module.css",
+		"/D/React_learn/react_kabzda_1/src/redux/state.js",
+		"/D/React_learn/react_kabzda_1/src/components/Profile/Posts/Posts.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Content.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Posts/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialog/Dialog.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Dialogs/Dialogs.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Content/Content.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Nav/Nav.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Dialogs.js",
+		"/D/React_learn/react_kabzda_1/src/components/Setting/Dialogs.module.css",
+		"/D/React_learn/react_kabzda_1/node_modules/react-router/cjs/react-router.js",
+		"/D/React_learn/react_kabzda_1/src/components/Posts/Posts.js",
+		"/D/React_learn/react_kabzda_1/src/components/Nav.js",
+		"/D/React_learn/react_kabzda_1/src/components/Post/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content.js",
+		"/D/React_learn/react_kabzda_1/src/components/Post/Post.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Posts.js",
+		"/C/Users/Даня/Desktop/moloda nayka/гра натисни мене/script.js",
+		"/C/Users/Даня/Desktop/moloda nayka/гра натисни мене/index.html",
+		"/C/Users/Даня/Desktop/moloda nayka/script.js",
+		"/C/Users/Даня/Desktop/moloda nayka/index.html",
+		"/D/React_learn/react_kabzda_1/src/components/Posts.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Posts/Post.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Posts/Post.js",
+		"/D/React_learn/react_kabzda_1/src/components/Content.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Nav.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Mes/Messenger.module.css",
+		"/D/React_learn/react_kabzda_1/src/components/Mes/Messenger.js",
+		"/D/React_learn/react_kabzda_1/src/components/Header.module.css",
+		"/C/Users/Даня/Desktop/Новая папка (2)/script.js",
+		"/C/Users/Даня/Desktop/Новая папка (2)/index.html",
+		"/D/React_learn/react_kabzda_1/src/Technologies.js",
+		"/C/Users/Даня/Desktop/tasks/kalkylator/index.html",
+		"/C/Users/Даня/Desktop/homework/9/script.js",
+		"/D/React_learn/react_kabzda_1/src/Technologies",
+		"/D/React_learn/react_kabzda_1/README.md",
+		"/D/React_learn/react_kabzda_1/package-lock.json",
+		"/D/React_learn/react_kabzda_1/package.json",
+		"/D/React_learn/react_kabzda_1/.gitignore",
+		"/C/Users/Даня/Desktop/portfolio(3)/style.css",
+		"/C/Users/Даня/Desktop/Plague Inc/script.js",
+		"/C/Users/Даня/Desktop/Plague Inc/style.css",
+		"/C/Users/Даня/Desktop/Plague Inc/index.html",
+		"/C/Users/Даня/Desktop/portfolio(3)/script.js",
+		"/C/Users/Даня/Desktop/tasks/didjei/style.css",
+		"/C/Users/Даня/Desktop/tasks/didjei/Play/app.js",
+		"/C/Users/Даня/Desktop/tasks/didjei/Play/style.css",
+		"/C/Users/Даня/Desktop/portfolio(3)/index - копия.html",
+		"/C/Users/Даня/Desktop/tasks/didjei/Play/index.html",
+		"/C/Users/Даня/Desktop/tasks/didjei/index.html",
+		"/C/Users/Даня/Desktop/tasks/didjei/Mogo/index.html",
+		"/C/Users/Даня/Desktop/tasks/Mogo/assets/css/style.css",
+		"/C/Users/Даня/Desktop/tasks/Mogo/index.html",
+		"/C/Users/Даня/Desktop/tasks/snake/index_1gfhdfh.html",
+		"/C/Users/Даня/Desktop/tasks/life/index.html",
+		"/C/Users/Даня/Desktop/tasks/didjei/script.js",
+		"/C/Users/Даня/Desktop/tasks/tanks/script.js",
+		"/C/Users/Даня/Desktop/tasks/tanks/style.css",
+		"/C/Users/Даня/Desktop/tasks/tanks/index.html",
+		"/C/Users/Даня/Desktop/portfolio(3)/jquery-3.4.1.js",
+		"/C/Users/Даня/Desktop/for portfolio/assets/js/app.js",
+		"/C/Users/Даня/Desktop/for portfolio/assets/css/style.css",
+		"/C/Users/Даня/Desktop/for portfolio/index.html",
+		"/C/Users/Даня/Desktop/tasks/snake/script.js",
+		"/C/Users/Даня/Desktop/tasks/true  or  false/style.css",
+		"/C/Users/Даня/Desktop/homework/9 dr sistem/script.js",
+		"/C/Users/Даня/Desktop/homework/9 dr sistem/index.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\React_learn\\react_kabzda_1\\src\\components\\Post",
+			"C:\\Users\\Даня\\Desktop\\Plague Inc\\img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dispatch",
+			"==",
+			"withCreentials",
+			"bold",
+			"followed",
+			"followedF",
+			";\n",
+			" '.\\",
+			"const",
+			"message",
+			";\n",
+			"17",
+			"170",
+			"1700",
+			"1",
+			"1700",
+			"4px",
+			";\n",
+			".Name",
+			"ST_",
+			"subscribe",
+			"subscrib",
+			"subscribe__btn",
+			">\n",
+			"]<",
+			">",
+			"();",
+			"<img src=\"img/wall.png\" class=\"wall\">\n\t\t<img src=\"img/tank.png\" class=\"tank\" id=\"tank\">",
+			"value",
+			"контентом",
+			"text",
+			";\n",
+			"about_meR",
+			"'\n",
+			";;",
+			";\n",
+			"}\n",
+			"\t\n",
+			";\n",
+			"Сложить"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/redux/redux-store.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42241,
+								42241
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.523534731277,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plaginSublime.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

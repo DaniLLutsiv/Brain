@@ -1,0 +1,16 @@
+/* CONTENt */
+
+.content_header{
+	display: flex;
+}
+.content_data{
+	color: black;
+	font-size: 18px;
+	font-weight: 500;
+	margin: 20px 0 0 20px;
+}
+
+.content_img{
+	width: 300px;
+	height: auto;
+}

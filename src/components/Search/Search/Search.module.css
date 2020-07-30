@@ -1,0 +1,19 @@
+.button{
+	width: 100px;
+	height: 30px;
+	background-color: red;
+	text-align: center;
+	
+}
+.pageNumber{
+	display: flex
+	
+}
+.active{
+	font-weight: bold;
+	display: flex
+}
+.noActive{
+	display: flex
+}
+
